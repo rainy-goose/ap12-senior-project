@@ -5,8 +5,14 @@ body {
 }
 
 h1 {}
-#navBar {
+h2 {}
+h3 {}
+.navBar {
   float: left;
+}
+.info {
+  float: right;
+  width: 40%;
 }
 p {}
 
