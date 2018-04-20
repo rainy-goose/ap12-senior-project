@@ -32,23 +32,35 @@ h3 {}
   width: 45%;
   float: left;
 }
+
 #serverinfo {
   width: 45%;
   float: right;
   padding-right: 15px;
 }
+
 #serverspecs {
   width: 55%;
   float: left;
 }
-#double {
-  width: 49%;
+
+#double-left {
+  width: 40%;
+  text-align: justify;
   float: left;
 }
 
-#keyword {
-  font-weight: bold;
+#double-right {
+  width: 40%;
+  text-align: justify;
+  float: right;
+  padding-right: 40px;
 }
+
+#keyword {
+  font-weight: 800;
+}
+
 p {
   color: #21ce99;
   font-size: 1.2em;
@@ -62,12 +74,14 @@ a {
   font-weight: 500;
   padding-right: 15px;
 }
+
 ul {
   text-decoration: none;
   color: #f45531;
   font-size: 1.3em;
   font-weight: 500;
 }
+
 a:link {}
 
 a:hover {
