@@ -41,6 +41,14 @@ h3 {}
   width: 55%;
   float: left;
 }
+#double {
+  width: 49%;
+  float: left;
+}
+
+#keyword {
+  font-weight: bold;
+}
 p {
   color: #21ce99;
   font-size: 1.2em;
