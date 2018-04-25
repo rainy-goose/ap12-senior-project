@@ -40,8 +40,9 @@ h3 {}
 }
 
 #serverspecs {
-  width: 55%;
+  width: 60%;
   float: left;
+  margin-left: none;
 }
 
 #double-left {
@@ -80,6 +81,9 @@ h3 {}
   font-weight: 800;
   color: #f45531;
 }
+#serverinfokw {
+color: #f45531;
+}
 
 p {
   color: #21ce99;
@@ -98,12 +102,6 @@ a {
   padding-right: 15px;
 }
 
-ul {
-  text-decoration: none;
-  color: #f45531;
-  font-size: 1.3em;
-  font-weight: 500;
-}
 
 a:link {}
 
