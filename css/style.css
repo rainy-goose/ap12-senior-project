@@ -2,7 +2,7 @@ head {}
 
 body {
   font-family: "Segoe UI", "Verdana", sans-serif;
-  background-color: white;
+  background-color: #222;
   padding-left: 30px;
   text-align: justify;
 }
@@ -11,7 +11,9 @@ h1 {
   color: #f45531;
 }
 
-h2 {}
+h2 {
+  color:#21ce99;
+}
 
 h3 {}
 
@@ -86,7 +88,7 @@ color: #f45531;
 }
 
 p {
-  color: #21ce99;
+  color: white;
   font-size: 1.2em;
   font-weight: 500
 }
